@@ -1,0 +1,165 @@
+#title1
+{
+    
+    text-align: center;
+}
+
+.navvv{
+    padding: 1%;
+}
+.navbar-brand
+{
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item
+{
+    padding: 0px 18px;
+    
+  
+}
+.nav-link
+{
+    font-size: 1rem;
+    font-family: Montserrat-light;
+}
+#title
+{
+    background-image: url(img/offer/1.jpg);
+    
+    height: 40vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+   
+}
+
+#title h2{
+    padding: 5% 5% 2% 5%;
+    color: #ffffff;
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+}
+
+#title h4{
+    color: white;
+}
+
+.search
+{
+    
+   display: flex;
+   justify-content: center;
+}
+
+
+#exclusive
+{
+    padding: 2% 10%;
+    background-color: #f4f7ff9e;
+}
+#exclusive h2{
+    text-align: left;
+    margin-bottom: 10px;
+    font-family: 'Gentium Book Plus', serif;
+    font-size: 2.5rem;
+    color: #205E61;
+   
+}
+.hotel_details img
+{
+    width: 100%;
+    height: 100%;
+    
+}
+.hotel_details
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+   border: solid white;
+    
+    
+}
+.quick
+{
+    background-color: white;
+    padding: 0% 2%;
+}
+.quick h3{
+    font-weight: bold;
+    color: rgb(255, 32, 110);
+}
+
+.quick h6{
+    font-weight: bold;
+}
+.quick p{
+    color: grey;
+    margin-bottom: 0;
+}
+.hotel_price
+{
+    text-align: center;
+   
+}
+
+ .hotel_price p
+ {
+    font-size: 12px;
+    font-weight: bold;
+ }
+
+
+
+ #select
+ {
+    padding: 5% 10% 0 10%;
+ }
+
+ #select li
+ {
+    padding: 0 2%;
+ }
+
+ .trip button
+ {
+    border-radius: 20px;
+ }
+ .trip h5{
+    font-weight: bold;
+    margin: 10px;
+ }
+.t11
+{
+    background-color: white; 
+          box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+            0.3em 0.3em 1em rgba(0, 0, 0, 0.3); 
+        margin-bottom: 10px;
+        
+    
+}
+
+/*Footer Section*/
+
+#footer
+{
+    padding: 2% 15%;
+    text-align: center;
+}
+.social_icon
+{
+    margin: 20px 10px;
+}
+
+ @media (max-width:600px)
+ {
+    #title h2{
+        padding-top: 30%;
+    }
+    .hotel_details
+    {
+        border: 2px solid white;
+    }
+ }

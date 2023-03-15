@@ -1,0 +1,81 @@
+body{
+    background-color: #f5f8ff5d;
+}
+#title1
+{
+    background-image: url(https://4kwallpapers.com/images/wallpapers/planet-astronomy-outer-space-dark-black-background-5k-8k-5120x2880-1524.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+#title2
+{
+    background-image: url(img/honneymoon.jpg);
+    height: 60vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+#title2 h2
+{
+    font-size: 4.5rem;
+   
+    
+}
+.title_middle
+{
+    position: sticky;
+    top: 20%;
+    color: white;
+}
+#middle
+{
+    padding: 10% ;
+  
+
+}
+
+
+#maldives
+{
+    
+    padding: 5% 10%;
+    background-color: #d3d1d1;
+   
+    
+    
+}
+
+#maldives h2{
+    padding-bottom: 2%;
+    font-family: 'Playfair Display', serif;
+}
+
+#given
+{
+  background-image: url(img/honeymoon/couple_mountains_travel_125490_3840x2160.jpg);
+  height: 60vh;
+  margin: 5% 10%;
+  background-size: cover;
+    
+    
+}
+.aa
+{
+    padding: 5%;
+}
+
+@media(max-width:600px)
+{
+    #title2
+    {
+        height: 40vh;
+    }
+    .ww
+{
+   margin: 10px;
+}
+}
